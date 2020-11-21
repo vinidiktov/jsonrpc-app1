@@ -1,0 +1,24 @@
+{
+  "$schema": "https://qooxdoo.org/schema/Manifest-1-0-0.json",
+  "info": {
+    "name": "jsonrpcapp",
+    "summary": "undefined",
+    "description": "undefined",
+    "homepage": "undefined",
+    "license": "MIT license",
+    "authors": [],
+    "version": "1.0.0"
+  },
+  "provides": {
+    "namespace": "jsonrpcapp",
+    "encoding": "utf-8",
+    "class": "source/class",
+    "resource": "source/resource",
+    "translation": "source/translation"
+  },
+  "requires": {
+    "@qooxdoo/framework": "^6.0.0-beta-20201116-0651",
+    "@qooxdoo/compiler": "^1.0.0-beta-20201116-0651",
+    "qooxdoo/incubator.qx.io.jsonrpc": "^1.0.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "className": "qx.io.jsonrpc.exception.JsonRpc",
+  "packageName": "qx.io.jsonrpc.exception",
+  "name": "JsonRpc",
+  "superClass": "qx.io.Exception",
+  "interfaces": [],
+  "mixins": [],
+  "functionName": null,
+  "clazz": {
+    "location": {
+      "start": {
+        "line": 22,
+        "column": 0
+      },
+      "end": {
+        "line": 25,
+        "column": 3
+      }
+    },
+    "jsdoc": {
+      "@description": [
+        {
+          "name": "@description",
+          "body": "<p>A class for representing errors that occurred on the jsonrpc server</p>"
+        }
+      ]
+    }
+  },
+  "type": "class",
+  "descendants": []
+}
